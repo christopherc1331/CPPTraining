@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MultiDimensionalArrays",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MultiDimensionalArrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultiDimensionalArrays-Debug-26cea699e2cae07c61bd.json",
+					"name" : "MultiDimensionalArrays",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section7/MultiDimensionalArrays/cmake-build-debug",
+		"source" : "C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section7/MultiDimensionalArrays"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
