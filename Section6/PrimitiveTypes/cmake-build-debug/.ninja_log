@@ -1,0 +1,15 @@
+# ninja log v5
+1	284	6628026136988952	CMakeFiles/PrimitiveTypes.dir/main.cpp.obj	c62743e0b7017ec
+287	397	6628026138079948	PrimitiveTypes.exe	dde473ba90021e07
+3	284	6628027396844050	CMakeFiles/PrimitiveTypes.dir/main.cpp.obj	c62743e0b7017ec
+284	391	6628027397908814	PrimitiveTypes.exe	dde473ba90021e07
+3	288	6628031195818821	CMakeFiles/PrimitiveTypes.dir/main.cpp.obj	c62743e0b7017ec
+289	390	6628031196839750	PrimitiveTypes.exe	dde473ba90021e07
+3	318	6628032605651103	CMakeFiles/PrimitiveTypes.dir/main.cpp.obj	c62743e0b7017ec
+319	432	6628032606772123	PrimitiveTypes.exe	dde473ba90021e07
+3	309	6628033323967046	CMakeFiles/PrimitiveTypes.dir/main.cpp.obj	c62743e0b7017ec
+310	407	6628033324917925	PrimitiveTypes.exe	dde473ba90021e07
+2	324	6628034017735384	CMakeFiles/PrimitiveTypes.dir/main.cpp.obj	c62743e0b7017ec
+324	431	6628034018786431	PrimitiveTypes.exe	dde473ba90021e07
+3	278	6628035325545762	CMakeFiles/PrimitiveTypes.dir/main.cpp.obj	c62743e0b7017ec
+278	369	6628035326426569	PrimitiveTypes.exe	dde473ba90021e07

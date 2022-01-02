@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section6/PrimitiveTypes/cmake-build-debug/CMakeFiles/PrimitiveTypes.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section6/PrimitiveTypes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section6/PrimitiveTypes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
