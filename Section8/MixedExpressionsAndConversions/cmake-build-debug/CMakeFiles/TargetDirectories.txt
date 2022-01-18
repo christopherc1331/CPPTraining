@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section8/MixedExpressionsAndConversions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section8/MixedExpressionsAndConversions/cmake-build-debug/CMakeFiles/MixedExpressionsAndConversions.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section8/MixedExpressionsAndConversions/cmake-build-debug/CMakeFiles/edit_cache.dir

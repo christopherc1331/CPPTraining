@@ -1,0 +1,15 @@
+# ninja log v5
+1	362	6641525436677472	CMakeFiles/ArithmeticOperators.dir/main.cpp.obj	586bcbb199649695
+364	513	6641525438168832	ArithmeticOperators.exe	4f2cfc5fd40492cb
+3	336	6641628273441711	CMakeFiles/ArithmeticOperators.dir/main.cpp.obj	586bcbb199649695
+337	451	6641628274572748	ArithmeticOperators.exe	4f2cfc5fd40492cb
+3	311	6641628619705506	CMakeFiles/ArithmeticOperators.dir/main.cpp.obj	586bcbb199649695
+312	445	6641628621019901	ArithmeticOperators.exe	4f2cfc5fd40492cb
+2	304	6641628976580161	CMakeFiles/ArithmeticOperators.dir/main.cpp.obj	586bcbb199649695
+305	410	6641628977629761	ArithmeticOperators.exe	4f2cfc5fd40492cb
+3	289	6641629611181124	CMakeFiles/ArithmeticOperators.dir/main.cpp.obj	586bcbb199649695
+289	392	6641629612182031	ArithmeticOperators.exe	4f2cfc5fd40492cb
+3	311	6641630224355860	CMakeFiles/ArithmeticOperators.dir/main.cpp.obj	586bcbb199649695
+311	419	6641630225416859	ArithmeticOperators.exe	4f2cfc5fd40492cb
+2	315	6641630371757970	CMakeFiles/ArithmeticOperators.dir/main.cpp.obj	586bcbb199649695
+316	417	6641630372758902	ArithmeticOperators.exe	4f2cfc5fd40492cb

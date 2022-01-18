@@ -1,0 +1,11 @@
+# ninja log v5
+1	275	6641662652316612	CMakeFiles/TestingForEquality.dir/main.cpp.obj	ae0aecf74884c7de
+277	372	6641662653258579	TestingForEquality.exe	cd39912864dc7fc3
+3	327	6641662744429466	CMakeFiles/TestingForEquality.dir/main.cpp.obj	ae0aecf74884c7de
+328	440	6641662745505345	TestingForEquality.exe	cd39912864dc7fc3
+2	286	6641663860934608	CMakeFiles/TestingForEquality.dir/main.cpp.obj	ae0aecf74884c7de
+286	381	6641663861855439	TestingForEquality.exe	cd39912864dc7fc3
+4	456	6641668965350530	CMakeFiles/TestingForEquality.dir/main.cpp.obj	ae0aecf74884c7de
+457	614	6641668966896988	TestingForEquality.exe	cd39912864dc7fc3
+2	302	6641669273957491	CMakeFiles/TestingForEquality.dir/main.cpp.obj	ae0aecf74884c7de
+303	412	6641669275047335	TestingForEquality.exe	cd39912864dc7fc3

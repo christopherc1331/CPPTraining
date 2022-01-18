@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section8/ArithmeticOperators/cmake-build-debug/CMakeFiles/ArithmeticOperators.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section8/ArithmeticOperators/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section8/ArithmeticOperators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
