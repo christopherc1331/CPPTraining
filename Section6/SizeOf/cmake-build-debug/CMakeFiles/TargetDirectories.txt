@@ -1,3 +1,0 @@
-C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section6/SizeOf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section6/SizeOf/cmake-build-debug/CMakeFiles/SizeOf.dir
-C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section6/SizeOf/cmake-build-debug/CMakeFiles/edit_cache.dir
