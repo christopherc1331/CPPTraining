@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section10 - Characters and Strings/CPlusPlusStrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section10 - Characters and Strings/CPlusPlusStrings/cmake-build-debug/CMakeFiles/CPlusPlusStrings.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section10 - Characters and Strings/CPlusPlusStrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

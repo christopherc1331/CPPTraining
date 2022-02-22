@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <string.h>
 
 using namespace std;
 
@@ -36,10 +37,55 @@ int main()
     s3 = s5 + " and " + s2 + " juice"; // Apple and Banana juice
     cout << "s3 is now: " << s3 << endl;
 
-    s3 = "nice " + " cold" + s5 + " juice";  // can't concatenate string literals against each other
-    s3 = strcat("nice ", " cold") + s5 + " juice";  // can't concatenate string literals against each other
+//    s3 = "nice " + " cold" + s5 + " juice";  // can't concatenate string literals against each other
+    char nice[200] {"nice"};
+    s3 = strcat(nice, " cold") + s5 + " juice";  // this works
+    cout << "s3 is now: " << s3 << endl;
+
+    cout << "\nLooping" << "\n----------------------------------------" << endl;
+    s1 = "Apple";
+    for (size_t i {0}; i < s1.length(); i++) {
+        cout << s1.at(i);
+    }
+    cout << endl;
+
+    for (char c: s1) {
+        cout << c;
+    }
+    cout << endl;
 
 
+    cout << "\nSubstring" << "\n----------------------------------------" << endl;
+    s1 = "This is a test";
+    cout << s1.substr(0,4) << endl; // This
+    cout << s1.substr(5,2) << endl; // is
+    cout << s1.substr(10,4) << endl; // test
+
+    cout << "\nSubstring" << "\n----------------------------------------" << endl;
+    s1.erase(0,5);
+    cout << "s1 is now: " << s1 << endl; // is a test
+
+    cout << "\ngetline" << "\n----------------------------------------" << endl;
+    string fullName{};
+    cout << "Enter your full name:";
+    getline(cin, fullName);
+
+    cout << "Your full name is: " << fullName << endl;
+
+    cout << "\nfind" << "\n----------------------------------------" << endl;
+    s1 = "The secret word is Boo";
+    string word{};
+    cout << "Enter the word to find:";
+    cin >> word;
+
+    size_t position = s1.find(word);
+    if (position != string::npos) {
+        cout << "Found " << word << " at position: " << position << endl;
+    }
+    else {
+        cout << "Sorry, " << word << " not found" << endl;
+    }
+    cout << endl;
 
     return 0;
 }

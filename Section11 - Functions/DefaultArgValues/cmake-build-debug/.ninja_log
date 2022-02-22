@@ -1,0 +1,19 @@
+# ninja log v5
+1	333	6664798463951184	CMakeFiles/DefaultArgValues.dir/main.cpp.obj	37c55eee90454696
+335	430	6664798464912058	DefaultArgValues.exe	73a63d2e69d55c56
+3	319	6664799620315906	CMakeFiles/DefaultArgValues.dir/main.cpp.obj	37c55eee90454696
+319	407	6664799621206723	DefaultArgValues.exe	73a63d2e69d55c56
+3	350	6664802869448093	CMakeFiles/DefaultArgValues.dir/main.cpp.obj	37c55eee90454696
+351	452	6664802870438989	DefaultArgValues.exe	73a63d2e69d55c56
+3	345	6664802965367907	CMakeFiles/DefaultArgValues.dir/main.cpp.obj	37c55eee90454696
+345	437	6664802966268728	DefaultArgValues.exe	73a63d2e69d55c56
+3	379	6664803071186304	CMakeFiles/DefaultArgValues.dir/main.cpp.obj	37c55eee90454696
+380	475	6664803072137174	DefaultArgValues.exe	73a63d2e69d55c56
+2	379	6664803858719587	CMakeFiles/DefaultArgValues.dir/main.cpp.obj	37c55eee90454696
+379	476	6664803859670453	DefaultArgValues.exe	73a63d2e69d55c56
+3	396	6664804268503235	CMakeFiles/DefaultArgValues.dir/main.cpp.obj	37c55eee90454696
+397	490	6664804269424078	DefaultArgValues.exe	73a63d2e69d55c56
+3	341	6664804464193173	CMakeFiles/DefaultArgValues.dir/main.cpp.obj	37c55eee90454696
+342	437	6664804465124025	DefaultArgValues.exe	73a63d2e69d55c56
+3	345	6664805361916700	CMakeFiles/DefaultArgValues.dir/main.cpp.obj	37c55eee90454696
+345	438	6664805362827535	DefaultArgValues.exe	73a63d2e69d55c56
