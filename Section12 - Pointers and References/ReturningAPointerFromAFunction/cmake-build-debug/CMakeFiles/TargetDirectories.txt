@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section12 - Pointers and References/ReturningAPointerFromAFunction/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section12 - Pointers and References/ReturningAPointerFromAFunction/cmake-build-debug/CMakeFiles/ReturningAPointerFromAFunction.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section12 - Pointers and References/ReturningAPointerFromAFunction/cmake-build-debug/CMakeFiles/rebuild_cache.dir

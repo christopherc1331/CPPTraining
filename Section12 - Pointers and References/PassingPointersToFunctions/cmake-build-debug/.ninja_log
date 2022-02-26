@@ -1,0 +1,15 @@
+# ninja log v5
+0	355	6676058352623046	CMakeFiles/PassingPointersToFunctions.dir/main.cpp.obj	4dfb74ff10c1344d
+357	482	6676058353854159	PassingPointersToFunctions.exe	653446ff6a674530
+3	275	6676058864944775	CMakeFiles/PassingPointersToFunctions.dir/main.cpp.obj	4dfb74ff10c1344d
+275	373	6676058865915647	PassingPointersToFunctions.exe	653446ff6a674530
+3	328	6676088240715535	CMakeFiles/PassingPointersToFunctions.dir/main.cpp.obj	4dfb74ff10c1344d
+329	451	6676088241946648	PassingPointersToFunctions.exe	653446ff6a674530
+3	270	6676088433957717	CMakeFiles/PassingPointersToFunctions.dir/main.cpp.obj	4dfb74ff10c1344d
+270	367	6676088434918583	PassingPointersToFunctions.exe	653446ff6a674530
+3	360	6676091663753458	CMakeFiles/PassingPointersToFunctions.dir/main.cpp.obj	4dfb74ff10c1344d
+361	492	6676091665044628	PassingPointersToFunctions.exe	653446ff6a674530
+3	391	6676102244610177	CMakeFiles/PassingPointersToFunctions.dir/main.cpp.obj	4dfb74ff10c1344d
+392	510	6676102245768627	PassingPointersToFunctions.exe	653446ff6a674530
+3	337	6676102487667865	CMakeFiles/PassingPointersToFunctions.dir/main.cpp.obj	4dfb74ff10c1344d
+338	442	6676102488688795	PassingPointersToFunctions.exe	653446ff6a674530

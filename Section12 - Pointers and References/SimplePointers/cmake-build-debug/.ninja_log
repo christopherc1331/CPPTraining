@@ -1,0 +1,15 @@
+# ninja log v5
+0	277	6675967281623028	CMakeFiles/SimplePointers.dir/main.cpp.obj	c2d6418b8bc620b4
+278	378	6675967282613934	SimplePointers.exe	a684643d2559c04b
+3	278	6675967559021951	CMakeFiles/SimplePointers.dir/main.cpp.obj	c2d6418b8bc620b4
+278	389	6675967560102935	SimplePointers.exe	a684643d2559c04b
+3	277	6675967796312117	CMakeFiles/SimplePointers.dir/main.cpp.obj	c2d6418b8bc620b4
+278	376	6675967797272986	SimplePointers.exe	a684643d2559c04b
+2	291	6675967959505835	CMakeFiles/SimplePointers.dir/main.cpp.obj	c2d6418b8bc620b4
+291	398	6675967960546776	SimplePointers.exe	a684643d2559c04b
+2	326	6675969241124413	CMakeFiles/SimplePointers.dir/main.cpp.obj	c2d6418b8bc620b4
+327	432	6675969242142806	SimplePointers.exe	a684643d2559c04b
+3	314	6675970631351124	CMakeFiles/SimplePointers.dir/main.cpp.obj	c2d6418b8bc620b4
+315	423	6675970632412088	SimplePointers.exe	a684643d2559c04b
+3	338	6675971885091585	CMakeFiles/SimplePointers.dir/main.cpp.obj	c2d6418b8bc620b4
+339	454	6675971886242629	SimplePointers.exe	a684643d2559c04b

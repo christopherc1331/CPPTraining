@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section12 - Pointers and References/ConstAndPointers/cmake-build-debug/CMakeFiles/ConstAndPointers.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section12 - Pointers and References/ConstAndPointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section12 - Pointers and References/ConstAndPointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+# ninja log v5
+0	325	6676106694619371	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+326	437	6676106695730384	ReturningAPointerFromAFunction.exe	910d386611b2788f
+3	308	6676119087793714	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+309	416	6676119088844669	ReturningAPointerFromAFunction.exe	910d386611b2788f
+3	281	6676125634678027	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+282	386	6676125635728984	ReturningAPointerFromAFunction.exe	910d386611b2788f
+3	286	6676125999350904	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+286	384	6676126000301776	ReturningAPointerFromAFunction.exe	910d386611b2788f
+3	293	6676127112365291	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+294	401	6676127113428706	ReturningAPointerFromAFunction.exe	910d386611b2788f
+2	282	6676127290189068	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+283	381	6676127291159951	ReturningAPointerFromAFunction.exe	910d386611b2788f
+3	307	6676127477000558	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+308	409	6676127478011485	ReturningAPointerFromAFunction.exe	910d386611b2788f
+2	295	6676127739118159	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+295	403	6676127740199143	ReturningAPointerFromAFunction.exe	910d386611b2788f
+2	380	6676130461170264	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+382	488	6676130462261254	ReturningAPointerFromAFunction.exe	910d386611b2788f
+3	351	6676130761963488	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+351	449	6676130762964405	ReturningAPointerFromAFunction.exe	910d386611b2788f
+3	277	6676131332922033	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+278	378	6676131333892926	ReturningAPointerFromAFunction.exe	910d386611b2788f
+3	277	6676131587973163	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+277	373	6676131588904008	ReturningAPointerFromAFunction.exe	910d386611b2788f
+2	278	6676131766095169	CMakeFiles/ReturningAPointerFromAFunction.dir/main.cpp.obj	55b89f4b5dd0ca97
+278	371	6676131767015995	ReturningAPointerFromAFunction.exe	910d386611b2788f

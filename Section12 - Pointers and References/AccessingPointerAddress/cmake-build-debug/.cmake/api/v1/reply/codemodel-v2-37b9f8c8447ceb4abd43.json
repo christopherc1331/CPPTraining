@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AccessingPointerAddress",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AccessingPointerAddress::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AccessingPointerAddress-Debug-eaac354c1abfbed8f339.json",
+					"name" : "AccessingPointerAddress",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section12 - Pointers and References/AccessingPointerAddress/cmake-build-debug",
+		"source" : "C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section12 - Pointers and References/AccessingPointerAddress"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
