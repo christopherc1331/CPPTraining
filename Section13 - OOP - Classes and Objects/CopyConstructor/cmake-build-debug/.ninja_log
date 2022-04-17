@@ -1,0 +1,11 @@
+# ninja log v5
+1	403	6715073969401986	CMakeFiles/CopyConstructor.dir/main.cpp.obj	c53dd08d4535d59e
+405	627	6715073971603002	CopyConstructor.exe	3b351343c2e22d63
+2	265	6715077314583733	CMakeFiles/CopyConstructor.dir/main.cpp.obj	c53dd08d4535d59e
+265	345	6715077315354376	CopyConstructor.exe	3b351343c2e22d63
+3	268	6715077639800587	CMakeFiles/CopyConstructor.dir/main.cpp.obj	c53dd08d4535d59e
+269	349	6715077640588299	CopyConstructor.exe	3b351343c2e22d63
+3	272	6715078290138079	CMakeFiles/CopyConstructor.dir/main.cpp.obj	c53dd08d4535d59e
+273	350	6715078290888764	CopyConstructor.exe	3b351343c2e22d63
+3	280	6715078949066806	CMakeFiles/CopyConstructor.dir/main.cpp.obj	c53dd08d4535d59e
+280	368	6715078949923638	CopyConstructor.exe	3b351343c2e22d63

@@ -1,0 +1,5 @@
+# ninja log v5
+4	463	6715204557370169	CMakeFiles/MoveConstructor.dir/main.cpp.obj	7807fbf93c1fb0a
+464	667	6715204559375460	MoveConstructor.exe	3ea3fff9a3aad07
+8	417	6716826434728476	build.ninja	aadd63ed8d4e3f78
+2	426	6715132541832883	CMakeFiles/MoveConstructor.dir/Notes.cpp.obj	4dee0f970c7b553

@@ -1,0 +1,11 @@
+# ninja log v5
+0	253	6715091406080905	CMakeFiles/ShallowCopyWithCopyConstructor.dir/main.cpp.obj	1104ce63bc428e59
+255	338	6715091406901651	ShallowCopyWithCopyConstructor.exe	17f00c93eb3ed36b
+2	255	6715092049864471	CMakeFiles/ShallowCopyWithCopyConstructor.dir/main.cpp.obj	1104ce63bc428e59
+255	330	6715092050585117	ShallowCopyWithCopyConstructor.exe	17f00c93eb3ed36b
+3	252	6715092261133748	CMakeFiles/ShallowCopyWithCopyConstructor.dir/main.cpp.obj	1104ce63bc428e59
+253	328	6715092261864414	ShallowCopyWithCopyConstructor.exe	17f00c93eb3ed36b
+3	251	6715092541392879	CMakeFiles/ShallowCopyWithCopyConstructor.dir/main.cpp.obj	1104ce63bc428e59
+251	328	6715092542133559	ShallowCopyWithCopyConstructor.exe	17f00c93eb3ed36b
+3	259	6715097308250502	CMakeFiles/ShallowCopyWithCopyConstructor.dir/main.cpp.obj	1104ce63bc428e59
+260	340	6715097309021204	ShallowCopyWithCopyConstructor.exe	17f00c93eb3ed36b

@@ -1,0 +1,14 @@
+# ninja log v5
+18	582	6719308611978632	CMakeFiles/Section13Challenge.dir/main.cpp.obj	3eb4f07862f95be4
+0	585	6719308611998648	CMakeFiles/Section13Challenge.dir/Movie.cpp.obj	2157b0d69c043636
+23	588	6719308612038683	CMakeFiles/Section13Challenge.dir/Movies.cpp.obj	fff2cb4a26e5d80c
+588	845	6719308614589851	Section13Challenge.exe	21c221d16b3d3f7
+3	311	6719311829631182	CMakeFiles/Section13Challenge.dir/main.cpp.obj	3eb4f07862f95be4
+11	351	6719311830021539	CMakeFiles/Section13Challenge.dir/Movies.cpp.obj	fff2cb4a26e5d80c
+351	461	6719311831102525	Section13Challenge.exe	21c221d16b3d3f7
+2	298	6719311900152565	CMakeFiles/Section13Challenge.dir/main.cpp.obj	3eb4f07862f95be4
+299	404	6719311901193464	Section13Challenge.exe	21c221d16b3d3f7
+2	299	6719312042332366	CMakeFiles/Section13Challenge.dir/main.cpp.obj	3eb4f07862f95be4
+300	405	6719312043373308	Section13Challenge.exe	21c221d16b3d3f7
+2	337	6719312450162733	CMakeFiles/Section13Challenge.dir/Movies.cpp.obj	fff2cb4a26e5d80c
+338	441	6719312451179624	Section13Challenge.exe	21c221d16b3d3f7

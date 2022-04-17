@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section13 - OOP - Classes and Objects/Section13Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section13 - OOP - Classes and Objects/Section13Challenge/cmake-build-debug/CMakeFiles/Section13Challenge.dir
+C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section13 - OOP - Classes and Objects/Section13Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir

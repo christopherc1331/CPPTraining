@@ -1,0 +1,12 @@
+# ninja log v5
+18	495	6719263079385204	CMakeFiles/StaticClassMembers.dir/main.cpp.obj	cf2fa4f9e6884511
+0	498	6719263079405227	CMakeFiles/StaticClassMembers.dir/Player.cpp.obj	103c09096f955e62
+498	749	6719263081890379	StaticClassMembers.exe	c368ee50cdd70c5f
+3	301	6719263671738159	CMakeFiles/StaticClassMembers.dir/main.cpp.obj	cf2fa4f9e6884511
+302	420	6719263672903769	StaticClassMembers.exe	c368ee50cdd70c5f
+3	310	6719264354417636	CMakeFiles/StaticClassMembers.dir/main.cpp.obj	cf2fa4f9e6884511
+311	423	6719264355522065	StaticClassMembers.exe	c368ee50cdd70c5f
+3	304	6719265517315234	CMakeFiles/StaticClassMembers.dir/main.cpp.obj	cf2fa4f9e6884511
+305	419	6719265518440601	StaticClassMembers.exe	c368ee50cdd70c5f
+3	318	6719265726775953	CMakeFiles/StaticClassMembers.dir/main.cpp.obj	cf2fa4f9e6884511
+318	438	6719265727985423	StaticClassMembers.exe	c368ee50cdd70c5f

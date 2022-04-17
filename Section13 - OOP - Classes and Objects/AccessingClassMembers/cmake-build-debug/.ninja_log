@@ -1,0 +1,13 @@
+# ninja log v5
+0	306	6682042112198030	CMakeFiles/AccessingClassMembers.dir/main.cpp.obj	9934560f551d4b26
+308	411	6682042113218971	AccessingClassMembers.exe	6b9b66cc1cb0146a
+3	305	6682042489324768	CMakeFiles/AccessingClassMembers.dir/main.cpp.obj	9934560f551d4b26
+305	403	6682042490275634	AccessingClassMembers.exe	6b9b66cc1cb0146a
+3	310	6682044326078888	CMakeFiles/AccessingClassMembers.dir/main.cpp.obj	9934560f551d4b26
+311	408	6682044327039763	AccessingClassMembers.exe	6b9b66cc1cb0146a
+3	332	6682044858957003	CMakeFiles/AccessingClassMembers.dir/main.cpp.obj	9934560f551d4b26
+333	441	6682044860037072	AccessingClassMembers.exe	6b9b66cc1cb0146a
+3	310	6682046208510389	CMakeFiles/AccessingClassMembers.dir/main.cpp.obj	9934560f551d4b26
+311	415	6682046209541325	AccessingClassMembers.exe	6b9b66cc1cb0146a
+2	324	6682049466017296	CMakeFiles/AccessingClassMembers.dir/main.cpp.obj	9934560f551d4b26
+325	432	6682049467088271	AccessingClassMembers.exe	6b9b66cc1cb0146a

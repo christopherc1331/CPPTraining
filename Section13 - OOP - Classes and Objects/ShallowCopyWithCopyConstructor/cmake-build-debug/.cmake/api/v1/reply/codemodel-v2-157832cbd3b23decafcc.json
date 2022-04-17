@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ShallowCopyWithCopyConstructor",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ShallowCopyWithCopyConstructor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShallowCopyWithCopyConstructor-Debug-2c659b87c8cb9eb06c00.json",
+					"name" : "ShallowCopyWithCopyConstructor",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section13 - OOP - Classes and Objects/ShallowCopyWithCopyConstructor/cmake-build-debug",
+		"source" : "C:/Users/chris/OneDrive/Documents/Git/Practice/CPPTraining/Section13 - OOP - Classes and Objects/ShallowCopyWithCopyConstructor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
